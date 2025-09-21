@@ -391,7 +391,11 @@ img {
 /*===================== About ==================*/
 .about__img {
   width: 170px;
+<<<<<<< HEAD
   border-radius: 10px;
+=======
+  border-radius: 500%;
+>>>>>>> 8c9f7c4bceb89b3720e75811121ea01c72d2c906
   justify-self: center;
   align-self: center;
   /* border: 1px solid #fff; */
